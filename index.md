@@ -4,7 +4,7 @@
 **Last Updated:** 10 June 2025  
 **App Name:** Noteable  
 **Developer:** Jithin Sabu  
-**Contact:** jithinsabu.mec@gmail.com  
+**Contact:** app.noteable@gmail.com   
 
 ## 1. Introduction
 
@@ -80,7 +80,7 @@ You have the right to:
 - Use the app without creating an account
 - Withdraw consent at any time by deleting the app
 
-To request data deletion or account removal, please email us at **jithinsabu.mec@gmail.com**.
+To request data deletion or account removal, please email us at **app.noteable@gmail.com**.
 
 ## 9. Children's Privacy
 
@@ -94,5 +94,5 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 If you have any questions or concerns about this Privacy Policy or your data, contact us at:
 
-**Email:** jithinsabu.mec@gmail.com  
+**Email:** app.noteable@gmail.com  
 **App Name:** Noteable
