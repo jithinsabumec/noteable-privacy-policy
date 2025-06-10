@@ -1,1 +1,0 @@
-# noteable-privacy-policy
