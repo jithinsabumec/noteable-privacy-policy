@@ -1,10 +1,10 @@
 # Privacy Policy for Noteable
 
 **Effective Date:** 10 June 2025  
-**Last Updated:** 10 June 2025
+**Last Updated:** 10 June 2025  
 **App Name:** Noteable  
-**Developer:** Jithin Sabu
-**Contact:** jithinsabu.mec@gmail.com
+**Developer:** Jithin Sabu  
+**Contact:** jithinsabu.mec@gmail.com  
 
 ## 1. Introduction
 
@@ -94,6 +94,5 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 If you have any questions or concerns about this Privacy Policy or your data, contact us at:
 
-**Email:** jithinsabu.mec@gmail.com
-
+**Email:** jithinsabu.mec@gmail.com  
 **App Name:** Noteable
